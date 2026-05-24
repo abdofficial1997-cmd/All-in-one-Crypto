@@ -1,8 +1,8 @@
+  name: Flutter APK Build
+
 environment:
   sdk: ">=3.5.0 <4.0.0"
   
-name: Flutter APK Build
-
 on:
   push:
     branches:
